@@ -1,0 +1,24 @@
+{
+  "name": "crud-redis",
+  "description": "CRUD for bnoguchi's redis-node.",
+  "version": "0.0.0",
+  "homepage": "http://labs.slickplaid.net/",
+  "repository": {
+		"type": "git",
+		"url": "http://github.com/slickplaid/crud-redis.git"
+	},
+  "author": {
+		"name": "Evan Johnson",
+		"email": "slickpla@slickplaid.net"
+		"url": "http://slickplaid.net/"
+	}
+  "main": "./index",
+  "directories": {
+    "lib": "./lib"
+  },
+  "engines": {
+    "node": ">=0.2.0"
+  },
+	"licence": "",
+	"scripts": {}
+}
